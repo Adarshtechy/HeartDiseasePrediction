@@ -62,7 +62,7 @@ The dataset used is a cleaned version of the UCI Heart Disease dataset, containi
 
 - Performance evaluation using accuracy, confusion matrix, and classification report
 
-📓 Usage
+## 📓 Usage
 
 Open the Jupyter Notebook:
 
@@ -78,13 +78,13 @@ Train machine learning models
 
 Evaluate and compare model performance
 
-📈 Results
+## 📈 Results
 
 Our best-performing model achieved high accuracy on the test set, demonstrating the effectiveness of machine learning in predicting heart disease. 
 
 Evaluation metrics such as confusion matrix and classification reports are provided in the notebook.
 
-📌 Requirements
+# 📌 Requirements
 
 Python 3.7+
 
@@ -100,7 +100,7 @@ scikit-learn
 
 jupyter
 
-📁 Files
+# 📁 Files
 
 Heart_Disease_Prediction.ipynb — Main Jupyter Notebook
 
