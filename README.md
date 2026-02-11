@@ -46,7 +46,7 @@ The dataset used is a cleaned version of the UCI Heart Disease dataset, containi
 
 # 📌 Requirements
 
-Python 3.7+
+- Python 3.7+
 
 pandas
 
