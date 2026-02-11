@@ -50,7 +50,7 @@ The dataset used is a cleaned version of the UCI Heart Disease dataset, containi
 
 - pandas
 
-numpy
+- numpy
 
 matplotlib
 
