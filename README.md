@@ -44,6 +44,33 @@ The dataset used is a cleaned version of the UCI Heart Disease dataset, containi
 
 - Target (0 = No Disease, 1 = Disease)
 
+# 📌 Requirements
+
+Python 3.7+
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+jupyter
+
+# 📁 Files
+
+Heart_Disease_Prediction.ipynb — Main Jupyter Notebook
+
+data.csv — Cleaned dataset used for training and testing
+
+README.md — Project documentation
+
+requirements.txt — List of required Python libraries
+  
+
 ## ⚙️ Features
 
 - Data preprocessing and visualization
@@ -84,28 +111,3 @@ Our best-performing model achieved high accuracy on the test set, demonstrating 
 
 Evaluation metrics such as confusion matrix and classification reports are provided in the notebook.
 
-# 📌 Requirements
-
-Python 3.7+
-
-pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-scikit-learn
-
-jupyter
-
-# 📁 Files
-
-Heart_Disease_Prediction.ipynb — Main Jupyter Notebook
-
-data.csv — Cleaned dataset used for training and testing
-
-README.md — Project documentation
-
-requirements.txt — List of required Python libraries
