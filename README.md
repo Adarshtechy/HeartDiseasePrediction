@@ -52,13 +52,13 @@ The dataset used is a cleaned version of the UCI Heart Disease dataset, containi
 
 - numpy
 
-matplotlib
+- matplotlib
 
-seaborn
+- seaborn
 
-scikit-learn
+- scikit-learn
 
-jupyter
+- jupyter
 
 # 📁 Files
 
