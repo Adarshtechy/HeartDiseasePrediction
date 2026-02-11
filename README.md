@@ -48,7 +48,7 @@ The dataset used is a cleaned version of the UCI Heart Disease dataset, containi
 
 - Python 3.7+
 
-pandas
+- pandas
 
 numpy
 
