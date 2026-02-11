@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction Using Machine Learning
+## 🫀 Heart Disease Prediction Using Machine Learning
 
 This project focuses on predicting the likelihood of heart disease in patients using machine learning algorithms. 
 
