@@ -60,7 +60,9 @@ The dataset used is a cleaned version of the UCI Heart Disease dataset, containi
 
 - jupyter
 
-# 📁 Files
+## 📁 Files
+
+Heart Disease Classification.pdf — Project Report
 
 Heart_Disease_Prediction.ipynb — Main Jupyter Notebook
 
