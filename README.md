@@ -1,10 +1,10 @@
-# 🫀 Heart Disease Prediction Using Machine Learning
+## 🫀 Heart Disease Prediction Using Machine Learning
 
 This project focuses on predicting the likelihood of heart disease in patients using machine learning algorithms. 
 
 By analyzing clinical features from a dataset, we build predictive models to assist in early diagnosis and risk assessment.
 
-# 📁 Project Overview
+## 📁 Project Overview
 
 Heart disease is one of the leading causes of death globally. 
 
@@ -12,7 +12,7 @@ Early detection can save lives and reduce healthcare costs.
 
 This project leverages various supervised machine learning techniques to predict heart disease based on patient data such as age, cholesterol levels, blood pressure, etc.
 
-# 📊 Dataset
+## 📊 Dataset
 
 The dataset used is a cleaned version of the UCI Heart Disease dataset, containing the following features:
 
@@ -44,7 +44,7 @@ The dataset used is a cleaned version of the UCI Heart Disease dataset, containi
 
 - Target (0 = No Disease, 1 = Disease)
 
-# 📌 Requirements
+## 📌 Requirements
 
 - Python 3.7+
 
@@ -60,7 +60,7 @@ The dataset used is a cleaned version of the UCI Heart Disease dataset, containi
 
 - jupyter
 
-# 📁 Files
+## 📁 Files
 
 Heart Disease Classification.pdf — Project Report
 
@@ -73,7 +73,7 @@ README.md — Project documentation
 requirements.txt — List of required Python libraries
   
 
-# ⚙️ Features
+## ⚙️ Features
 
 - Data preprocessing and visualization
 
@@ -91,7 +91,7 @@ requirements.txt — List of required Python libraries
 
 - Performance evaluation using accuracy, confusion matrix, and classification report
 
-# 📓 Usage
+## 📓 Usage
 
 Open the Jupyter Notebook:
 
@@ -107,7 +107,7 @@ Train machine learning models
 
 Evaluate and compare model performance
 
-# 📈 Results
+## 📈 Results
 
 Our best-performing model achieved high accuracy on the test set, demonstrating the effectiveness of machine learning in predicting heart disease. 
 
